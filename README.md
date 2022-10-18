@@ -1,5 +1,4 @@
 
--->
 #  Dual-branch Multi-level Feature Aggregation Network for Pansharpening
  
 This repo provides an implementation of PyTorch version DMFANet. It is greatly appreciated to [jiaming-wang](https://github.com/jiaming-wang/DPFN) for providing the Pansharpening implementation framwork.
